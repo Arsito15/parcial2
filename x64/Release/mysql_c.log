@@ -1,0 +1,8 @@
+﻿  Conect.cpp
+C:\Users\JAVIER SOLIS\Documents\ARUN S\visual\mysql_c\mysql_c\Conect.h(2,10): fatal error C1083: No se puede abrir el archivo incluir: 'main.h': No such file or directory
+  main.cpp
+C:\Users\JAVIER SOLIS\Documents\ARUN S\visual\mysql_c\mysql_c\proveedor.h(2,10): fatal error C1083: No se puede abrir el archivo incluir: 'main.h': No such file or directory
+  mysql_c.cpp
+  proveedor.cpp
+C:\Users\JAVIER SOLIS\Documents\ARUN S\visual\mysql_c\mysql_c\proveedor.h(2,10): fatal error C1083: No se puede abrir el archivo incluir: 'main.h': No such file or directory
+  Puesto.cpp
